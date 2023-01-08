@@ -1,0 +1,22 @@
+id: AB4865446
+title: Prayer to the Omniscient Longchen Rabjam
+type: translation
+pechas:
+- I176C13C4
+- I3D9C08CE
+- IA44EE482
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:00:12.350826
+  last_modified_at: 2023-01-04 13:00:12.350848
+  collections:
+  - Longchen Rabjam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I176C13C4/34D4: '4884'
+  I3D9C08CE/EB4A: '4884'
+  IA44EE482/B775: '4884'
